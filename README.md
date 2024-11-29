@@ -42,6 +42,6 @@ Antes de começar, certifique-se de ter uma conta na AWS. Se precisar de ajuda p
 -   Exporte os resultados e analise as previsões geradas.
 -   Documente suas conclusões e qualquer insight obtido a partir das previsões.
 
-## 🤔 Dúvidas?
+## Conclusão
 
-Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma issue neste repositório ou entrar em contato com a equipe da DIO.
+A partir da análise de diversos dados a partir do treinamento de ML, para poder ter um controle mais inteligente dos dados, para que, em uma aplicação real, ele possa ser usado para ser feito previsões precisas e objetivas.
